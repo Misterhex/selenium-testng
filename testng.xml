@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" thread-count="200" configfailurepolicy="continue">
+	<test name="Test0">
+		<classes>
+			<class name="AutomationTesting.seleniumTesting.AppTest0" />
+			<class name="AutomationTesting.seleniumTesting.AppTest1" />
+			<class name="AutomationTesting.seleniumTesting.AppTest2" />
+			<class name="AutomationTesting.seleniumTesting.AppTest3" />
+			<class name="AutomationTesting.seleniumTesting.AppTest4" />
+			<class name="AutomationTesting.seleniumTesting.AppTest5" />
+			<class name="AutomationTesting.seleniumTesting.AppTest6" />
+			<class name="AutomationTesting.seleniumTesting.AppTest7" />
+			<class name="AutomationTesting.seleniumTesting.AppTest8" />
+			<class name="AutomationTesting.seleniumTesting.AppTest9" />
+			<class name="AutomationTesting.seleniumTesting.AppTest10" />
+			<class name="AutomationTesting.seleniumTesting.AppTest11" />
+			<class name="AutomationTesting.seleniumTesting.AppTest12" />
+			<class name="AutomationTesting.seleniumTesting.AppTest13" />
+			<class name="AutomationTesting.seleniumTesting.AppTest14" />
+			<class name="AutomationTesting.seleniumTesting.AppTest15" />
+			<class name="AutomationTesting.seleniumTesting.AppTest16" />
+			<class name="AutomationTesting.seleniumTesting.AppTest17" />
+			<class name="AutomationTesting.seleniumTesting.AppTest18" />
+			<class name="AutomationTesting.seleniumTesting.AppTest19" />
+			<class name="AutomationTesting.seleniumTesting.AppTest20" />
+			<class name="AutomationTesting.seleniumTesting.AppTest21" />
+			<class name="AutomationTesting.seleniumTesting.AppTest22" />
+			<class name="AutomationTesting.seleniumTesting.AppTest23" />
+			<class name="AutomationTesting.seleniumTesting.AppTest24" />
+			<class name="AutomationTesting.seleniumTesting.AppTest25" />
+			<class name="AutomationTesting.seleniumTesting.AppTest26" />
+			<class name="AutomationTesting.seleniumTesting.AppTest27" />
+			<class name="AutomationTesting.seleniumTesting.AppTest28" />
+			<class name="AutomationTesting.seleniumTesting.AppTest29" />
+			<class name="AutomationTesting.seleniumTesting.AppTest30" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
